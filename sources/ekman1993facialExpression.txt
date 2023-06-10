@@ -1,0 +1,10 @@
+@article{ekman1993facial,
+  title={Facial expression and emotion.},
+  author={Ekman, Paul},
+  journal={American psychologist},
+  volume={48},
+  number={4},
+  pages={384},
+  year={1993},
+  publisher={American Psychological Association}
+}

@@ -1,0 +1,10 @@
+@article{church2007role,
+  title={The role of gesture in memory and social communication},
+  author={Church, Ruth Breckinridge and Garber, Philip and Rogalski, Kathryn},
+  journal={Gesture},
+  volume={7},
+  number={2},
+  pages={137--158},
+  year={2007},
+  publisher={John Benjamins}
+}

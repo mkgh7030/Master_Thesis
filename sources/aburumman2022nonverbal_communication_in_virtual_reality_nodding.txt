@@ -1,0 +1,9 @@
+@article{aburumman2022nonverbal,
+  title={Nonverbal communication in virtual reality: Nodding as a social signal in virtual interactions},
+  author={Aburumman, Nadine and Gillies, Marco and Ward, Jamie A and Hamilton, Antonia F de C},
+  journal={International Journal of Human-Computer Studies},
+  volume={164},
+  pages={102819},
+  year={2022},
+  publisher={Elsevier}
+}

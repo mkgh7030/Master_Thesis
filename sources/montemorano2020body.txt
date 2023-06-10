@@ -1,0 +1,5 @@
+@article{montemorano2020body,
+  title={Body Language: Avatars, Identity Formation, and Communicative Interaction in VRChat},
+  author={Montemorano, Cristina},
+  year={2020}
+}

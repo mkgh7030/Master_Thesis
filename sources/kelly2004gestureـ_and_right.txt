@@ -1,0 +1,10 @@
+@article{kelly2004gesture,
+  title={Gesture and right hemisphere involvement in evaluating lecture material},
+  author={Kelly, Spencer D and Goldsmith, Leslie H},
+  journal={Gesture},
+  volume={4},
+  number={1},
+  pages={25--42},
+  year={2004},
+  publisher={John Benjamins}
+}

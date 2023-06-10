@@ -1,0 +1,8 @@
+@inproceedings{hariharan2014gesture,
+  title={Gesture recognition using Kinect in a virtual classroom environment},
+  author={Hariharan, Balaji and Padmini, S and Gopalakrishnan, Uma},
+  booktitle={2014 Fourth International Conference on Digital Information and Communication Technology and its Applications (DICTAP)},
+  pages={118--124},
+  year={2014},
+  organization={IEEE}
+}

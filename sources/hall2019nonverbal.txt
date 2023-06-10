@@ -1,0 +1,9 @@
+@article{hall2019nonverbal,
+  title={Nonverbal communication},
+  author={Hall, Judith A and Horgan, Terrence G and Murphy, Nora A},
+  journal={Annual review of psychology},
+  volume={70},
+  pages={271--294},
+  year={2019},
+  publisher={Annual Reviews}
+}

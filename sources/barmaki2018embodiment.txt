@@ -1,0 +1,10 @@
+@article{barmaki2018embodiment,
+  title={Embodiment analytics of practicing teachers in a virtual immersive environment},
+  author={Barmaki, Roghayeh and Hughes, Charles E},
+  journal={Journal of Computer Assisted Learning},
+  volume={34},
+  number={4},
+  pages={387--396},
+  year={2018},
+  publisher={Wiley Online Library}
+}

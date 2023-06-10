@@ -1,0 +1,7 @@
+@incollection{kurzweg2021using,
+  title={Using Body Language of Avatars in VR Meetings as Communication Status Cue},
+  author={Kurzweg, Marco and Reinhardt, Jens and Nabok, Wladimir and Wolf, Katrin},
+  booktitle={Proceedings of Mensch und Computer 2021},
+  pages={366--377},
+  year={2021}
+}

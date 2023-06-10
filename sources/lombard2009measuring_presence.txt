@@ -1,0 +1,7 @@
+@inproceedings{lombard2009measuring,
+  title={Measuring presence: the temple presence inventory},
+  author={Lombard, Matthew and Ditton, Theresa B and Weinstein, Lisa},
+  booktitle={Proceedings of the 12th annual international workshop on presence},
+  pages={1--15},
+  year={2009}
+}

@@ -1,0 +1,6 @@
+@book{doerner2022virtual,
+  title={Virtual and augmented reality (VR/AR): Foundations and methods of extended realities (XR)},
+  author={Doerner, Ralf and Broll, Wolfgang and Grimm, Paul and Jung, Bernhard},
+  year={2022},
+  publisher={Springer Nature}
+}

@@ -1,0 +1,6 @@
+@book{knapp2013nonverbal,
+  title={Nonverbal communication in human interaction},
+  author={Knapp, Mark L and Hall, Judith A and Horgan, Terrence G},
+  year={2013},
+  publisher={Cengage Learning}
+}

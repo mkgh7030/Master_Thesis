@@ -1,0 +1,9 @@
+@article{goldin2017gesture,
+  title={Gesture, sign, and language: The coming of age of sign language and gesture studies},
+  author={Goldin-Meadow, Susan and Brentari, Diane},
+  journal={Behavioral and brain sciences},
+  volume={40},
+  pages={e46},
+  year={2017},
+  publisher={Cambridge University Press}
+}

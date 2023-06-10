@@ -1,0 +1,6 @@
+@article{jackob2011effects,
+  title={The effects of verbal and nonverbal elements in persuasive communication: Findings from two multi-method experiments},
+  author={Jackob, Nikolaus and Roessing, Thomas and Petersen, Thomas},
+  year={2011},
+  publisher={Walter de Gruyter GmbH \& Co. KG}
+}

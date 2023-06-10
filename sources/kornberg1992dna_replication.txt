@@ -1,0 +1,7 @@
+@book{kornberg1992dna,
+  title={DNA replication},
+  author={Kornberg, Arthur and Baker, Tania A and others},
+  volume={3},
+  year={1992},
+  publisher={Wh Freeman New York}
+}

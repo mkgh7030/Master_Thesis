@@ -1,0 +1,7 @@
+@inproceedings{jian2019influence,
+  title={Influence of Instructors' Body Language on Students' Learning Outcome in Micro Lectures},
+  author={Jian-xia, Cao and Shuo, Man and Lei, Mei},
+  booktitle={Proceedings of the 2019 11th International Conference on Education Technology and Computers},
+  pages={76--79},
+  year={2019}
+}

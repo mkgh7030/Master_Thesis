@@ -1,0 +1,7 @@
+@inproceedings{li2021social,
+  title={Social VR: A New medium for remote communication and collaboration},
+  author={Li, Jie and Vinayagamoorthy, Vinoba and Williamson, Julie and Shamma, David A and Cesar, Pablo},
+  booktitle={Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems},
+  pages={1--6},
+  year={2021}
+}

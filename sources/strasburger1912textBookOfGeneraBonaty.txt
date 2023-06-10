@@ -1,0 +1,6 @@
+@book{strasburger1912text,
+  title={A Text-book of Botany},
+  author={Strasburger, Eduard and Schenck, Heinrich and Jost, Ludwig and Karsten, George},
+  year={1912},
+  publisher={Macmillan}
+}

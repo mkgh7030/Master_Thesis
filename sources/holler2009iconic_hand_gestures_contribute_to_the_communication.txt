@@ -1,0 +1,9 @@
+@article{holler2009iconic,
+  title={Do iconic hand gestures really contribute to the communication of semantic information in a face-to-face context?},
+  author={Holler, Judith and Shovelton, Heather and Beattie, Geoffrey},
+  journal={Journal of Nonverbal Behavior},
+  volume={33},
+  pages={73--88},
+  year={2009},
+  publisher={Springer}
+}

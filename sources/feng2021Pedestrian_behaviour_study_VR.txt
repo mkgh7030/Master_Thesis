@@ -1,0 +1,9 @@
+@article{feng2021using,
+  title={Using virtual reality to study pedestrian exit choice behaviour during evacuations},
+  author={Feng, Yan and Duives, Dorine C and Hoogendoorn, Serge P},
+  journal={Safety science},
+  volume={137},
+  pages={105158},
+  year={2021},
+  publisher={Elsevier}
+}

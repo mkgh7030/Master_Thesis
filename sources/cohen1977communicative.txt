@@ -1,0 +1,10 @@
+@article{cohen1977communicative,
+  title={The Communicative Functions of Hand I1lustrators},
+  author={Cohen, Akiba A},
+  journal={Journal of communication},
+  volume={27},
+  number={4},
+  pages={54--63},
+  year={1977},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}

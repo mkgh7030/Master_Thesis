@@ -1,0 +1,9 @@
+@article{kappas1997fascination,
+  title={The fascination with faces: Are they windows to our soul?},
+  author={Kappas, Arvid},
+  journal={Journal of Nonverbal Behavior},
+  volume={21},
+  pages={157--161},
+  year={1997},
+  publisher={Kluwer Academic Publishers-Plenum Publishers}
+}

@@ -1,0 +1,7 @@
+@book{le2013plate,
+  title={Plate tectonics},
+  author={Le Pichon, Xavier and Francheteau, Jean and Bonnin, Jean},
+  volume={6},
+  year={2013},
+  publisher={Elsevier}
+}

@@ -1,0 +1,7 @@
+@inproceedings{koh2022show,
+  title={Show of Hands: Leveraging Hand Gestural Cues in Virtual Meetings for Intelligent Impromptu Polling Interactions},
+  author={Koh, Jung In and Ray, Samantha and Cherian, Josh and Taele, Paul and Hammond, Tracy},
+  booktitle={27th International Conference on Intelligent User Interfaces},
+  pages={292--309},
+  year={2022}
+}

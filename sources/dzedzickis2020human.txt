@@ -1,0 +1,10 @@
+@article{dzedzickis2020human,
+  title={Human emotion recognition: Review of sensors and methods},
+  author={Dzedzickis, Andrius and Kaklauskas, Art{\=u}ras and Bucinskas, Vytautas},
+  journal={Sensors},
+  volume={20},
+  number={3},
+  pages={592},
+  year={2020},
+  publisher={MDPI}
+}

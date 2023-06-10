@@ -1,0 +1,5 @@
+@phdthesis{birmingham2021comparative,
+  title={A comparative analysis of nonverbal communication in online multi-user virtual environments (Doctoral dissertation)},
+  author={Birmingham, Christopher Crawford},
+  year={2021}
+}

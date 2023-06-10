@@ -1,0 +1,10 @@
+@article{bonaccio2016nonverbal,
+  title={Nonverbal behavior and communication in the workplace: A review and an agenda for research},
+  author={Bonaccio, Silvia and O’Reilly, Jane and O’Sullivan, Sharon L and Chiocchio, Fran{\c{c}}ois},
+  journal={Journal of Management},
+  volume={42},
+  number={5},
+  pages={1044--1074},
+  year={2016},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}

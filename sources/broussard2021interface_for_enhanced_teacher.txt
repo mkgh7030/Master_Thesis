@@ -1,0 +1,8 @@
+@inproceedings{broussard2021interface,
+  title={An interface for enhanced teacher awareness of student actions and attention in a vr classroom},
+  author={Broussard, David M and Rahman, Yitoshee and Kulshreshth, Arun K and Borst, Christoph W},
+  booktitle={2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)},
+  pages={284--290},
+  year={2021},
+  organization={IEEE}
+}

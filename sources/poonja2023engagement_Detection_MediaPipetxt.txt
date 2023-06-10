@@ -1,0 +1,8 @@
+@article{poonja2023engagement,
+  title={Engagement detection and enhancement for STEM education through computer vision, augmented reality, and haptics},
+  author={Poonja, Hasnain Ali and Shirazi, Muhammad Ayaz and Khan, Muhammad Jawad and Javed, Kashif},
+  journal={Image and Vision Computing},
+  pages={104720},
+  year={2023},
+  publisher={Elsevier}
+}

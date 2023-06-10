@@ -1,0 +1,8 @@
+@inproceedings{le2020enhancing,
+  title={Enhancing the experience of virtual conferences in social virtual environments},
+  author={Le, Duc Anh and Maclntyre, Blair and Outlaw, Jessica},
+  booktitle={2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)},
+  pages={485--494},
+  year={2020},
+  organization={IEEE}
+}

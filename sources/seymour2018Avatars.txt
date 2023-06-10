@@ -1,0 +1,9 @@
+@article{seymour2018actors,
+  title={Actors, avatars and agents: Potentials and implications of natural face technology for the creation of realistic visual presence},
+  author={Seymour, Mike and Riemer, Kai and Kay, Judy},
+  journal={Journal of the association for Information Systems},
+  volume={19},
+  number={10},
+  pages={4},
+  year={2018}
+}

@@ -1,0 +1,6 @@
+@book{danesi2021understanding,
+  title={Understanding nonverbal communication: A semiotic guide},
+  author={Danesi, Marcel},
+  year={2021},
+  publisher={Bloomsbury Publishing}
+}

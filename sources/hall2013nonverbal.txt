@@ -1,0 +1,7 @@
+@book{hall2013nonverbal,
+  title={Nonverbal communication},
+  author={Hall, Judith A and Knapp, Mark L},
+  volume={2},
+  year={2013},
+  publisher={Walter de Gruyter}
+}

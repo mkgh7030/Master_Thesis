@@ -1,0 +1,9 @@
+@article{khan2021machine,
+  title={Machine learning in computer vision: a review},
+  author={Khan, Abdullah Ayub and Laghari, Asif Ali and Awan, Shafique Ahmed},
+  journal={EAI Endorsed Transactions on Scalable Information Systems},
+  volume={8},
+  number={32},
+  pages={e4--e4},
+  year={2021}
+}

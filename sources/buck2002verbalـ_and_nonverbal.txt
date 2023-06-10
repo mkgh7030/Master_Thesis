@@ -1,0 +1,10 @@
+@article{buck2002verbal,
+  title={Verbal and nonverbal communication: Distinguishing symbolic, spontaneous, and pseudo-spontaneous nonverbal behavior},
+  author={Buck, Ross and VanLear, C Arthur},
+  journal={Journal of communication},
+  volume={52},
+  number={3},
+  pages={522--541},
+  year={2002},
+  publisher={Oxford University Press}
+}

@@ -1,0 +1,8 @@
+@book{short1976social,
+  title={The social psychology of telecommunications},
+  author={Short, John and Williams, Ederyn and Christie, Bruce},
+  volume={19},
+  number={4},
+  year={1976},
+  publisher={Wiley London}
+}

@@ -1,0 +1,6 @@
+@book{harrison2018impulse,
+  title={The impulse to gesture: Where language, minds, and bodies intersect},
+  author={Harrison, Simon},
+  year={2018},
+  publisher={Cambridge University Press}
+}

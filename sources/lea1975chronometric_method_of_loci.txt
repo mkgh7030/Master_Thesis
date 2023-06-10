@@ -1,0 +1,10 @@
+@article{lea1975chronometric,
+  title={Chronometric analysis of the method of loci.},
+  author={Lea, Glen},
+  journal={Journal of Experimental Psychology: Human Perception and Performance},
+  volume={1},
+  number={2},
+  pages={95},
+  year={1975},
+  publisher={American Psychological Association}
+}

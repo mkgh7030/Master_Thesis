@@ -1,0 +1,7 @@
+@article{webgl,
+  title={WebGL: 2D and 3D graphics for the web},
+  author={Mozilla},
+  url={https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API},
+  year={2023},
+  publisher={Mozilla}
+}

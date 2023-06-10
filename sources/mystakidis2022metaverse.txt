@@ -1,0 +1,10 @@
+@article{mystakidis2022metaverse,
+  title={Metaverse},
+  author={Mystakidis, Stylianos},
+  journal={Encyclopedia},
+  volume={2},
+  number={1},
+  pages={486--497},
+  year={2022},
+  publisher={MDPI}
+}

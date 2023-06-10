@@ -1,0 +1,10 @@
+@article{saltzman2020loneliness,
+  title={Loneliness, isolation, and social support factors in post-COVID-19 mental health.},
+  author={Saltzman, Leia Y and Hansel, Tonya Cross and Bordnick, Patrick S},
+  journal={Psychological Trauma: Theory, Research, Practice, and Policy},
+  volume={12},
+  number={S1},
+  pages={S55},
+  year={2020},
+  publisher={Educational Publishing Foundation}
+}

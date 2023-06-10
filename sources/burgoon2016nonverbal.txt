@@ -1,0 +1,6 @@
+@book{burgoon2016nonverbal,
+  title={Nonverbal communication},
+  author={Burgoon, Judee K and Manusov, Valerie and Guerrero, Laura K},
+  year={2016},
+  publisher={Routledge}
+}

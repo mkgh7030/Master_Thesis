@@ -1,0 +1,10 @@
+@article{bainbridge2007scientific,
+  title={The scientific research potential of virtual worlds},
+  author={Bainbridge, William Sims},
+  journal={science},
+  volume={317},
+  number={5837},
+  pages={472--476},
+  year={2007},
+  publisher={American Association for the Advancement of Science}
+}

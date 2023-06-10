@@ -1,0 +1,10 @@
+@article{sproull1996interface,
+  title={When the interface is a face},
+  author={Sproull, Lee and Subramani, Mani and Kiesler, Sara and Walker, Janet H and Waters, Keith},
+  journal={Human-computer interaction},
+  volume={11},
+  number={2},
+  pages={97--124},
+  year={1996},
+  publisher={Taylor \& Francis}
+}

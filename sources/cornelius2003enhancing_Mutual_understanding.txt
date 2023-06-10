@@ -1,0 +1,10 @@
+@article{cornelius2003enhancing,
+  title={Enhancing mutual understanding in synchronous computer-mediated communication by training: Trade-offs in judgmental tasks},
+  author={Cornelius, Caroline and Boos, Margarete},
+  journal={Communication Research},
+  volume={30},
+  number={2},
+  pages={147--177},
+  year={2003},
+  publisher={Sage Publications}
+}
