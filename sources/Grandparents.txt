@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3411764.3445191,
+author = {Fuchsberger, Verena and Beuthel, Janne Mascha and Bentegeac, Philippe and Tscheligi, Manfred},
+title = {Grandparents and Grandchildren Meeting Online: The Role of Material Things in Remote Settings},
+year = {2021},
+isbn = {9781450380966},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3411764.3445191},
+doi = {10.1145/3411764.3445191},
+abstract = {Grandparents and grandchildren, who cannot meet face-to-face (e.g., due to dislocation or physical distancing induced by a pandemic), often use audio-visual communication tools in order to maintain their relationship online. In a qualitative online survey (n = 85), we inquired into the various ways that grandparents and grandchildren came up with when being physically distant; many of them are tangible in nature as they include “things” or incorporate “spaces”. In this paper, we illustrate related temporal and spatial trajectories and unpack how online meetings are characterized by constant negotiations of agency. We discuss how online meetings could complement face-to-face meetings, instead of mimicking or replacing them. We finally articulate a collection of design sensitivities with the aim to both inspire and question designing for intergenerational online meetings.},
+booktitle = {Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems},
+articleno = {478},
+numpages = {14},
+keywords = {objects, spaces, online meetings, audio-visual communication, intergenerational relationships, materiality, materials},
+location = {Yokohama, Japan},
+series = {CHI '21}
+}

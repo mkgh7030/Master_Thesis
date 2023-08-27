@@ -1,0 +1,10 @@
+@article{zhang2012social,
+  title={Social semantic approach to support communication in AEC},
+  author={Zhang, J and El-Diraby, TE},
+  journal={Journal of computing in civil engineering},
+  volume={26},
+  number={1},
+  pages={90--104},
+  year={2012},
+  publisher={American Society of Civil Engineers}
+}

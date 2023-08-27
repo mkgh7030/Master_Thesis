@@ -1,0 +1,6 @@
+@book{beebe2010communication,
+  title={Communication: Principles for a lifetime},
+  author={Beebe, Steven A and Beebe, Susan J and Ivy, Diana K},
+  year={2010},
+  publisher={Allyn \& Bacon Boston, MA}
+}

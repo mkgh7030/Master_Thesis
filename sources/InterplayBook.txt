@@ -1,0 +1,6 @@
+@book{adler1986interplay,
+  title={Interplay: The process of interpersonal communication},
+  author={Adler, Ronald Brian and Rosenfeld, Lawrence B and Towne, Neil and Scott, Mavis},
+  year={1986},
+  publisher={Holt, Rinehart, and Winston New York, NY}
+}
