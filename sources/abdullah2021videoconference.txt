@@ -1,0 +1,10 @@
+@article{abdullah2021videoconference,
+  title={Videoconference and embodied VR: Communication patterns across task and medium},
+  author={Abdullah, Ahsan and Kolkmeier, Jan and Lo, Vivian and Neff, Michael},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={5},
+  number={CSCW2},
+  pages={1--29},
+  year={2021},
+  publisher={ACM New York, NY, USA}
+}

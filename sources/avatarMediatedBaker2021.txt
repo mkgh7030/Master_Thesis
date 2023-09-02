@@ -1,0 +1,7 @@
+@inproceedings{baker2021avatar,
+  title={Avatar-mediated communication in social VR: an in-depth exploration of older adult interaction in an emerging communication platform},
+  author={Baker, Steven and Waycott, Jenny and Carrasco, Romina and Kelly, Ryan M and Jones, Anthony John and Lilley, Jack and Dow, Briony and Batchelor, Frances and Hoang, Thuong and Vetere, Frank},
+  booktitle={Proceedings of the 2021 CHI conference on human factors in computing systems},
+  pages={1--13},
+  year={2021}
+}

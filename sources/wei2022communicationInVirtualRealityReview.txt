@@ -1,0 +1,6 @@
+@article{wei2022communication,
+  title={Communication in immersive social virtual reality: A systematic review of 10 years' studies},
+  author={Wei, Xiaoying and Jin, Xiaofu and Fan, Mingming},
+  journal={arXiv preprint arXiv:2210.01365},
+  year={2022}
+}
