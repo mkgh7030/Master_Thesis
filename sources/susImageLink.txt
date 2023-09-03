@@ -1,0 +1,7 @@
+@online{JustinBieber&TomCruise,
+	author = {Andrew Smyk},
+	title = {The System Usability Scale & How its Used in UX},
+	year = 2020,
+	url = {https://medium.com/thinking-design/the-system-usability-scale-how-its-used-in-ux-b823045270b7},
+	urldate = {29 March 2020}
+}

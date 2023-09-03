@@ -1,0 +1,10 @@
+@article{maloney2020talking,
+  title={" Talking without a Voice" Understanding Non-verbal Communication in Social Virtual Reality},
+  author={Maloney, Divine and Freeman, Guo and Wohn, Donghee Yvette},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={4},
+  number={CSCW2},
+  pages={1--25},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
