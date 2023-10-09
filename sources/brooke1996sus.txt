@@ -1,0 +1,10 @@
+@article{brooke1996sus,
+  title={Sus: a “quick and dirty’usability},
+  author={Brooke, John},
+  journal={Usability evaluation in industry},
+  volume={189},
+  number={3},
+  pages={189--194},
+  year={1996},
+  publisher={Taylor \& Francis}
+}
