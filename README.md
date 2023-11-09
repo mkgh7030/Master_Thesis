@@ -5,8 +5,10 @@
 |------------------|---------------------------|---|
 | Mohammad Kasiri  | mo.kasiri@tabriziau.ac.ir | Master Student in Multimedia  |
 | Yoones A. Sekhavat | sekhavat@tabriziau.ac.ir   | associate professor, Tabriz Islamic Art University  |
-| Leila Dobakhti | l.dobakhti@gmail.com   | associate professor, Tabriz Islamic Art University  |
-|                  |                           |   |
+| Leila Dobakhti | l.dobakhti@gmail.com   | associate professor, Tabriz Islamic Art University 
+
+
+**Download English Abstract**: https://raw.githubusercontent.com/mo-kasiri/Master_Thesis/main/Abstract.pdf
 
 ### Abstract
 
